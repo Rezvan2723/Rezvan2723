@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1579546928686-286c9fbde1ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1239&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: cursive;
+}
+p {
+  color: #2F4F4F;
+}
+ .hp{
+  font-size: 25px;
+  font-family: cursive ;
+  color: #ffffe6;
+}
